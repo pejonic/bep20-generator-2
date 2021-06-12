@@ -1,28 +1,58 @@
 ---
 component: Home
 title: BEP20 Token Generator | Create BEP20 Token for FREE
-description: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+description: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
 meta:
     - property: twitter:title
       content: BEP20 Token Generator | Create BEP20 Token for FREE
     - property: og:title
       content: BEP20 Token Generator | Create BEP20 Token for FREE
     - property: twitter:description
-      content: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+      content: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
     - property: og:description
-      content: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+      content: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
     - property: og:url
-      content: https://tokencenter.github.io/bep20-generator/
+      content: https://hikecoder.github.io/bep20-generator/
 ---
 
 # BEP20 Token Generator - DAPP
 
 Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
 
-## Try it
+## Smart Contracts Source
+ 
+Discover Smart Contracts source [here](https://github.com/hikecoder/bep20-generator).
 
-https://tokencenter.github.io/bep20-generator/
+## Install dependencies
+
+```bash
+npm install
+```
+
+## Lint
+
+```bash
+npm run lint
+```
+
+## Run DEV server
+
+```bash
+npm run dev
+```
+
+## Build dist
+
+```bash
+npm run build
+```
+
+## Deploy to gh-pages branch
+
+```bash
+npm run deploy
+```
 
 ## License
 
-Code released under the [MIT License](https://github.com/tokencenter/bep20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/hikecoder/bep20-generator/blob/master/LICENSE).
